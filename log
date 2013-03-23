@@ -1,0 +1,78 @@
+
+======================   ALLOCATED NODES   ======================
+
+ Data for node: cp2314	Num slots: 1	Max slots: 0
+
+=================================================================
+Je suis le numéro # 0 parmi 24
+0 a envoyé un message à 1
+Je suis le numéro # 2 parmi 24
+2 a envoyé un message à 3
+2 a reçu un message de 1
+Je suis le numéro # 1 parmi 24
+1 a envoyé un message à 2
+1 a reçu un message de 0
+Je suis le numéro # 3 parmi 24
+3 a envoyé un message à 4
+3 a reçu un message de 2
+Je suis le numéro # 6 parmi 24
+6 a envoyé un message à 7
+Je suis le numéro # 10 parmi 24
+10 a envoyé un message à 11
+Je suis le numéro # 11 parmi 24
+11 a envoyé un message à 12
+11 a reçu un message de 10
+Je suis le numéro # 4 parmi 24
+4 a envoyé un message à 5
+4 a reçu un message de 3
+Je suis le numéro # 7 parmi 24
+7 a envoyé un message à 8
+7 a reçu un message de 6
+Je suis le numéro # 8 parmi 24
+8 a envoyé un message à 9
+8 a reçu un message de 7
+Je suis le numéro # 9 parmi 24
+9 a envoyé un message à 10
+Je suis le numéro # 22 parmi 24
+22 a envoyé un message à 23
+9 a reçu un message de 8
+10 a reçu un message de 9
+Je suis le numéro # 23 parmi 24
+23 a envoyé un message à 0
+23 a reçu un message de 22
+0 a reçu un message de 23
+Je suis le numéro # 13 parmi 24
+13 a envoyé un message à 14
+Je suis le numéro # 19 parmi 24
+19 a envoyé un message à 20
+Je suis le numéro # 21 parmi 24
+21 a envoyé un message à 22
+21 a reçu un message de 20
+22 a reçu un message de 21
+19 a reçu un message de 18
+Je suis le numéro # 5 parmi 24
+5 a envoyé un message à 6
+5 a reçu un message de 4
+6 a reçu un message de 5
+Je suis le numéro # 12 parmi 24
+12 a envoyé un message à 13
+12 a reçu un message de 11
+Je suis le numéro # 14 parmi 24
+14 a envoyé un message à 15
+14 a reçu un message de 13
+Je suis le numéro # 17 parmi 24
+17 a envoyé un message à 18
+17 a reçu un message de 16
+Je suis le numéro # 18 parmi 24
+18 a envoyé un message à 19
+18 a reçu un message de 17
+13 a reçu un message de 12
+Je suis le numéro # 20 parmi 24
+20 a envoyé un message à 21
+20 a reçu un message de 19
+Je suis le numéro # 15 parmi 24
+15 a envoyé un message à 16
+15 a reçu un message de 14
+Je suis le numéro # 16 parmi 24
+16 a envoyé un message à 17
+16 a reçu un message de 15

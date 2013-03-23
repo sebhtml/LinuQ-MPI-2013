@@ -1,0 +1,30 @@
+----------------------------------------
+Begin PBS Prologue Sat Mar 23 15:16:19 EDT 2013 1364066179
+Job ID:		143058.mp2.m
+Username:	boisver1
+Group:		nne-790-ac
+Nodes:		cp0160 cp0166
+End PBS Prologue Sat Mar 23 15:16:20 EDT 2013 1364066180
+----------------------------------------
+Je suis le numéro # 0 (cp0166) parmi 2
+Je suis le numéro # 1 (cp0160) parmi 2
+0 a envoyé un message à 1
+1 a envoyé un message à 0
+1 a reçu un message de 0
+0 a reçu un message de 1
+----------------------------------------
+Begin PBS Epilogue Sat Mar 23 15:16:26 EDT 2013 1364066186
+Job ID:		143058.mp2.m
+Username:	boisver1
+Group:		nne-790-ac
+Job Name:	test
+Session:	16503
+Limits:		neednodes=2:ppn=1,nodes=2:ppn=1,walltime=00:01:00
+Resources:	cput=00:00:00,mem=812kb,vmem=13548kb,walltime=00:00:02
+Queue:		qwork4
+Account:		
+Nodes:	cp0160 cp0166
+Killing leftovers...
+
+End PBS Epilogue Sat Mar 23 15:16:27 EDT 2013 1364066187
+----------------------------------------
